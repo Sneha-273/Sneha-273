@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Snehal</h1>
-- 📫 How to reach me **snehaalavekar@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
