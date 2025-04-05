@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Snehal]</h1>
+<h1 align="center">Hi 👋, I'm Snehal</h1>
 <h3 align="center">Aspiring Data Analyst | Data Storyteller | Turning Data into Insights</h3>
 
 ---
