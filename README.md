@@ -46,9 +46,11 @@
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/snehal-alavekar-2985a7281)
-- 🌐 [Portfolio/Resume](https://yourwebsite.com)
-- 📩 [Email](mailto:snehaalavekar@email.com)
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sneha-273&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-273&layout=compact&theme=radical)
+
 
 ---
 
