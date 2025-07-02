@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Snehal</h1>
-<h3 align="center">Aspiring Data Analyst | Data Storyteller | Turning Data into Insights</h3>
+<h3 align="center">Aspiring Data Analyst </h3>
 
 ---
 
@@ -61,7 +61,5 @@
 
 
 ---
-
-_“Without data, you’re just another person with an opinion.” – W. Edwards Deming_
 
 
