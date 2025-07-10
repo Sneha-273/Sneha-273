@@ -5,7 +5,7 @@
 
 ## 📊 About Me
 
-🎓 Final-year Data Science Engineering student  
+🎓 Graduate in CSE( Data Science )
 📈 Passionate about transforming raw data into actionable insights  
 🔍 Skilled in cleaning, analyzing & visualizing data for better decisions  
 📌 Focused on building a strong foundation in Data Analytics  
